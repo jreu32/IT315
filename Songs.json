@@ -3,53 +3,53 @@
   [
     {
       "SongID":"1",
-      "SongImage":
-      "SongName":
-      "SongDescription":
-      "SongYear":
-      "SongArtist":
-      "SongLength":
-      "SongWebsite":
+      "SongImage":"https://raw.githubusercontent.com/jreu32/IT315/main/fame.png",
+      "SongName":"Fame",
+      "SongDescription":"Fame is a song which anyone who was alive, cognizant and in front of a television set in 1980s’ America is likely familiar with. And in a way it is kinda like an earlier version of the types of motivational tunes which artists such as DJ Khaled would come out with some decades later.",
+      "SongYear":"1980",
+      "SongArtist":"Irene Cara",
+      "SongLength":"5:07",
+      "SongWebsite":"https://www.songmeaningsandfacts.com/fame-by-irene-cara/"
     },
     {
       "SongID":"2",
-      "SongImage":
-      "SongName":
-      "SongDescription":
-      "SongYear":
-      "SongArtist":
-      "SongLength":
-      "SongWebsite":
+      "SongImage":"https://raw.githubusercontent.com/jreu32/IT315/main/yououghtaknow.png",
+      "SongName":"You Oughta Know",
+      "SongDescription":"You Ougtha Know is yet another song centered on a vocalist being caught up in her post-breakup feelings, while her ex has a new lover and seems to be having the time of his life. That said, relatively speaking, this song is quite specific, thus successfully giving the impression that it is in fact based on a real-life romance which Alanis was in.",
+      "SongYear":"1995",
+      "SongArtist":"Alanis Morissette",
+      "SongLength":"4:08",
+      "SongWebsite":"https://www.songmeaningsandfacts.com/you-ougtha-know-by-alanis-morissette/"
     },
     {
       "SongID":"3",
-      "SongImage":
-      "SongName":
-      "SongDescription":
-      "SongYear":
-      "SongArtist":
-      "SongLength":
-      "SongWebsite":
+      "SongImage":"https://raw.githubusercontent.com/jreu32/IT315/main/idratherbewithyou.png",
+      "SongName":"I'd Rather Be With You",
+      "SongDescription":"As more or less explained by Joshua Radin in relation to this song (“I’d Rather Be With You”), what the lyrics center on is the concept of the vocalist coming to the realization that the addressee is the one. This is something he didn’t realize earlier on, and perhaps it can also be said was not brave enough to act upon.  But in the here and now, he understands that the only way to stave off depression is with her by his side. Furthermore, he has come to the conclusion that it would be best if he were to age with a partner such as the addressee in his life.",
+      "SongYear":"2008",
+      "SongArtist":"Joshua Radin",
+      "SongLength":"2:49",
+      "SongWebsite":"https://www.songmeaningsandfacts.com/id-rather-be-with-you-by-joshua-radin/"
     },
     {
       "SongID":"4",
-      "SongImage":
-      "SongName":
-      "SongDescription":
-      "SongYear":
-      "SongArtist":
-      "SongLength":
-      "SongWebsite":
+      "SongImage":"https://raw.githubusercontent.com/jreu32/IT315/main/leavemealone.png",
+      "SongName":"Leave Me Alone",
+      "SongDescription":"Flipp Dinero has revealed that “Leave Me Alone” was inspired by him cutting off a particular romantic interest who proved too persistent for his liking. But the lyrics rather imply that the reason he’s instructing homegirl to ‘leave him alone’ is because she has proven unfaithful, “f*–ing the clique” and all.",
+      "SongYear":"2019",
+      "SongArtist":"Flipp Dinero",
+      "SongLength":"3:15",
+      "SongWebsite":"https://www.songmeaningsandfacts.com/leave-me-alone-by-flipp-dinero/"
      },
      {
       "SongID":"5",
-      "SongImage":
-      "SongName":
-      "SongDescription":
-      "SongYear":
-      "SongArtist":
-      "SongLength":
-      "SongWebsite":
+      "SongImage":"https://raw.githubusercontent.com/jreu32/IT315/main/feelmyrhythm.png",
+      "SongName":"Feel My Rhythm",
+      "SongDescription":"This song (“Feel My Rhythm”), as well as the overall project it is a part of, has been inspired by the onset of Spring. Said season officially commenced in the Northern Hemisphere, which South Korea is a part of, on March 21st, i.e. the same day this track was dropped. The reason the coming of Spring is traditionally seen as a cause of celebration is because, with Winter now coming to an end, this is the time of year that flowers start to bloom and all types of stuff like that. And likewise the lyrics of this piece are very upbeat, with the vocalist being enraptured in “a crazy night” she is enjoying with her bae.",
+      "SongYear":"2022",
+      "SongArtist":"Red Velvet",
+      "SongLength":"3:29",
+      "SongWebsite":"https://www.songmeaningsandfacts.com/feel-my-rhythm-by-red-velvet/"
      }
   ],
      "Status":"OK"
